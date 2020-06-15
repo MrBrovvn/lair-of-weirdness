@@ -62,7 +62,8 @@ var sites = {
         "Letterboxd" : "https://letterboxd.com/",
 				"Track.tv"  : "https://trakt.tv/dashboard",
 				"LookMovie"	: "https://lookmovie.ag",
-				"LastFM" : "https://www.last.fm"
+				"LastFM" : "https://www.last.fm",
+				"Backloggd" : "https://www.backloggd.com"
 			},
 			"Miscellaneous": {
 				"MyNoise"		: "https://mynoise.net/",
